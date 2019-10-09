@@ -1,0 +1,27 @@
+---
+    extends: "page.html"
+    default_block: article
+
+    title: "Makerspace-Baasrode"
+    site: "http://www.makerspace-baasrode.be/"
+    city: "Baasrode"
+    location: "Hof ten Rode 61, 9200 Baasrode (Dendermonde)"
+    contact: "info@makerspace-baasrode.be"
+    irc: "replaced with slack (see website for details)"
+---
+
+{% markdown %}
+Makerspace-Baasrode is opened on every friday for enthousiast that love work or talk about computers, technology and brainstorm about ideas that can be build.
+No experience is required!
+
+Be present to experience the fun!
+
+
+* Location: Hof ten Rode 61, 9200 Baasrode (Dendermonde)
+* Site: [www.Makerspace-Baasrode.be](http://www.makerspace-baasrode.be/)
+* Slack: [makerspace-baasrode.slack.com](https://makerspace-baasrode.slack.com/)
+* Twitter: [twitter.com/MakersBaasrode](https://twitter.com/MakersBaasrode)
+* Instagram: [www.instagram.com/makerspacebaasrode/](https://www.instagram.com/makerspacebaasrode/)
+* Github: [github.com/Makerspace-baasrode](https://github.com/Makerspace-baasrode)
+
+{% endmarkdown %}
